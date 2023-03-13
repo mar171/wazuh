@@ -1,6 +1,7 @@
+
 #!/bin/bash
 # Copyright (C) 2015, Wazuh Inc.
-
+# Nuevo comentario
 # validate OS, linux or macos
 if [ "X$(uname)" = "XLinux" ] ; then
     # Get Wazuh installation path
